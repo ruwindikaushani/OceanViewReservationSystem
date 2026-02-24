@@ -1,20 +1,63 @@
-## Getting Started
+# Ocean View Reservation System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A console-based Hotel Reservation Management System developed using **Java** and **MVC architecture**, with MySQL database integration using JDBC.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📌 Project Description
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+This system allows hotel staff to manage room reservations efficiently through a console interface. It follows the MVC (Model-View-Controller) design pattern to maintain clean structure and separation of concerns.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 Features
 
-## Dependency Management
+- User Authentication (Login System)
+- Add New Reservation
+- View Reservation Details by Reservation Number
+- Automatic Bill Calculation
+- Check-in and Check-out Management
+- Help Section
+- Safe Exit Option
+- MySQL Database Integration (JDBC)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# OceanViewReservationSystem
-Java Room Reservation Assignment
+---
+
+## 🏗️ Project Structure (MVC)
+
+
+
+---
+
+## 🗄️ Database Details
+
+- Database: `oceanview_db`
+- Table: `reservations`
+- Server: MySQL (XAMPP)
+- Connection: JDBC (MySQL Connector/J)
+
+---
+
+## ▶️ How to Run the Project
+
+### Step 1 – Compile
+
+### Step 2 – Run
+
+
+---
+
+## 🛠 Technologies Used
+
+- Java
+- MySQL (XAMPP)
+- JDBC
+- VS Code
+- Git & GitHub
+
+---
+
+## 👩‍💻 Author
+
+Ruwindi Kaushani  
+BSc (Hons) Software Engineering
